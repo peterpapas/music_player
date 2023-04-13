@@ -19,38 +19,6 @@ This is a Ruby-based console application that allows you to manage your music al
 
 This option allows you to load an album file that contains information about your music albums. The file must be in the format specified below.
 
-<code>
-<Number of Albums>
-<Album 1 Artist>
-<Album 1 Title>
-<Album 1 Genre>
-<Number of Tracks in Album 1>
-<Track 1 Name>
-<Track 1 Location>
-...
-<Track n Name>
-<Track n Location>
-<Album 2 Artist>
-<Album 2 Title>
-<Album 2 Genre>
-<Number of Tracks in Album 2>
-<Track 1 Name>
-<Track 1 Location>
-...
-<Track n Name>
-<Track n Location>
-...
-<Album n Artist>
-<Album n Title>
-<Album n Genre>
-<Number of Tracks in Album n>
-<Track 1 Name>
-<Track 1 Location>
-...
-<Track n Name>
-<Track n Location>
-</code>
-
 ### Display Album Info
 
 This option allows you to display the information about your music albums. You can choose to display all the albums or filter them by genre.
